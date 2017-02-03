@@ -1,0 +1,20 @@
+minute hour dayofmonth month dow
+
+06 10 * * *--for every
+
+git
+----
+
+git config --global user.name "rajeshghourvani"
+git config --global user.email "rajesh.ghourvani"
+
+for checkout
+--------------
+git clone "link"
+
+for checkin:
+------------
+git add *
+git commit -m "file added"
+git push  (give credentials)
+
